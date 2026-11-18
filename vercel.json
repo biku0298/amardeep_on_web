@@ -1,0 +1,6 @@
+{
+  "framework": null,
+  "installCommand": "npm ci --prefix amardeep-sah",
+  "buildCommand": "npm run build --prefix amardeep-sah",
+  "outputDirectory": "amardeep-sah/dist"
+}

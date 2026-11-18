@@ -1,0 +1,5 @@
+.openai/
+.vercel/
+.env
+.env.*
+!.env.example
